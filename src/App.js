@@ -69,6 +69,8 @@ export default function App() {
           : friend
       )
     );
+
+    setSelecteFriend(null);
   }
 
   return (
